@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+  margin: 50px 50px;
+  display: flex;
+}
+
+body {
+  background-color: blue;
+}
+
+.cards {
+  margin: 10px 30px;
+  background-color: white;
+  height: 580px;
+  width: 450px;
+  padding: 20px 10px;
+  border-radius: 5%;
+}
+
+.price {
+  font-size: 60px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.month {
+  font-size: 20px;
+  font-weight: normal;
+}
+
+.type {
+  color: gray;
+}
+
+.listItems {
+  display: block;
+  text-align: left;
+  padding: 10px 20px;
+}
+
+.listItems2 {
+  display: block;
+  text-align: left;
+  padding: 10px 20px;
+  color: gray;
+}
+
+.btn {
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  background-color: cornflowerblue;
+  width: 75%;
+  height: 40px;
+  border-radius: 5%;
+  border: none;
+  margin-top: 20px;
+}
